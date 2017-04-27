@@ -42,3 +42,10 @@ Makefile.in
 *.log
 *.trs
 *.pc
+
+# Buck
+/buck-out/
+/.buckd/
+/buckaroo/
+.buckconfig.local
+BUCKAROO_DEPS
